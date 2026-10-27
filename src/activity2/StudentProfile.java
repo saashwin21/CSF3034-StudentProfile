@@ -17,5 +17,7 @@ public class StudentProfile {/*class name*/
         System.out.println("Name: Saashwin Raaj Prapu");
         System.out.println("Student ID: S86485");
         System.out.println("Programme: Bachelor of Computer Science (Software Engineering) with Honours");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     } /*blocks*/
 }
